@@ -10,3 +10,8 @@ The project is to build out the methods in `particle_filter.cpp` and simulator o
 ```
 Success! Your particle filter passed!
 ```
+
+Here is the screenshot for final output:
+
+![output result](result.png "Final Result")
+
